@@ -37,6 +37,10 @@ import javafx.stage.Stage;
  */
 public class Main extends Application {
 	
+	
+	/**
+	 * Connection to the server. 
+	 */
 	private ConnectionManager connectionManager;
     
     /**
